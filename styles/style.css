@@ -1,0 +1,32 @@
+/* p {
+    color: red;
+} */
+html {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+    background-color: bisque;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightpink;
+    padding: 0 20px 20px 20px;
+    border: 5px solid green;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px 0;
+    color: lightseagreen;
+    text-shadow: 3px 3px 10px blue;
+}
+p, li {
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
